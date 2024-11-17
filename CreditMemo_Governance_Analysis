@@ -41,8 +41,9 @@ Hope this is helpful if your organisation finds analysing the credit memo proces
 What about your process mining stories? I would like to hear more about your process mining use cases! 🤗 
 
 Figure 1: Celonis Dashboard - Main types of Credit Memo
-https://github.com/jiaodayulang/ProcessMiningUseCase/blob/main/Picture/RootCauseAnalysis.jpeg
-！[alt text](https://github.com/jiaodayulang/processminingusecase/blob/main/Picture/RootCauseAnalysis.jpeg?raw=true)
+
+<p align="center"><img src="https://github.com/jiaodayulang/ProcessMiningUseCase/blob/main/Picture/RootCauseAnalysis.jpeg" width="500"></p>
+
 Figure 2: Celonis Process Diagram - Credit Memo Process Overview
 Figure 3: Root causes for credit memo issues (returns)
 
